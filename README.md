@@ -1,6 +1,6 @@
 # Hi there, I'm Rajeel 👋
 
-🚀 **Aspiring Web Developer | E-Commerce Enthusiast | Digital Marketer**
+ **Aspiring Web Developer | E-Commerce Enthusiast | Digital Marketer**
 
 I’m passionate about building modern web solutions, exploring digital business models, and combining technology with creativity. Currently pursuing a **BS in E-Commerce**, I love experimenting with new tools, frameworks, and ideas that make businesses thrive online.  
 
